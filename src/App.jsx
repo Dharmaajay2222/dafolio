@@ -1,6 +1,6 @@
 import Hero from "./components/Hero"; // Adjust path if necessary
 import Navbar from "./components/Navbar"; // Import Navbar component
-import Projects from "./components/projects"; // Import Projects component
+import Projects from "./components/Projects.jsx"; // Import Projects component
 import Bio from "./components/Bio";
 import Skills from "./components/Skills";
 import WorkExperience from "./components/WorkExperience";

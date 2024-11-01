@@ -1,12 +1,12 @@
-import Hero from "./components/Hero"; // Adjust path if necessary
-import Navbar from "./components/Navbar"; // Import Navbar component
+import Hero from "./components/Hero.jsx"; // Adjust path if necessary
+import Navbar from "./components/Navbar.jsx"; // Import Navbar component
 import Projects from "./components/Projects.jsx"; // Import Projects component
-import Bio from "./components/Bio";
-import Skills from "./components/Skills";
-import WorkExperience from "./components/WorkExperience";
-import EducationSection from "./components/EducationSection";
-import ContactForm from "./components/ContactForm";
-import Footer from "./components/Footer";
+import Bio from "./components/Bio.jsx";
+import Skills from "./components/Skills.jsx";
+import WorkExperience from "./components/WorkExperience.jsx";
+import EducationSection from "./components/EducationSection.jsx";
+import ContactForm from "./components/ContactForm.jsx";
+import Footer from "./components/Footer.jsx";
 
 const App = () => {
   return (

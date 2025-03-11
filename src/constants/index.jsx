@@ -219,6 +219,14 @@
       description:
         "As a Front-End Developer Intern at ParkQwik since September 2024, I engineered responsive user interfaces using JavaScript, React.js, and React Native, leading to a 25% increase in user engagement. I resolved complex front-end issues through effective debugging and troubleshooting, ensuring high application availability. Additionally, I collaborated with cross-functional teams to implement features that enhanced product performance and user satisfaction while contributing to the optimization of application scalability through agile development processes and sharing technical insights.",
     },
+
+    {
+      title: "Java Developer Intern",
+      company: "ParkQwik",
+      duration: "September 2024 - Present",
+      description:
+        "As a Front-End Developer Intern at ParkQwik since September 2024, I engineered responsive user interfaces using JavaScript, React.js, and React Native, leading to a 25% increase in user engagement. I resolved complex front-end issues through effective debugging and troubleshooting, ensuring high application availability. Additionally, I collaborated with cross-functional teams to implement features that enhanced product performance and user satisfaction while contributing to the optimization of application scalability through agile development processes and sharing technical insights.",
+    },
   ];
   
   export const EDUCATION = [

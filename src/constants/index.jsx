@@ -212,24 +212,26 @@
   
   
   export const EXPERIENCES = [
-    {
+  {
     title: "Java Developer Intern",
     company: "Infosys Springboard",
     duration: "February 2025 - March 2025",
     description:
-      "Developed a **Spring Boot** and **MySQL** auction platform supporting **100+ users** with real-time bidding and secure authentication. " +
-      "Built **REST APIs** processing **200+ bids** across 50+ auctions and integrated email notifications, increasing engagement by **30%**. " +
-      "Achieved **95%+ test coverage** (JUnit/Mockito), reducing post-launch issues by **40%**, and integrated a **React.js** front-end for seamless UX.",
+      "Developed a Spring Boot and MySQL auction platform handling 100+ concurrent users with real-time bidding functionality. " +
+      "Designed RESTful APIs that processed 200+ bids across 50+ auctions, implementing JWT authentication for secure access. " +
+      "Integrated automated email notifications which increased user engagement by 30%. " +
+      "Achieved 95%+ test coverage using JUnit and Mockito, reducing production bugs by 40%.",
   },
   {
     title: "Frontend Developer Intern",
     company: "ParkQwik",
     duration: "October 2024 - December 2024",
     description:
-      "Engineered responsive UIs using **React.js, JavaScript, and Tailwind CSS**, improving application performance by **20%** through reusable components. " +
-      "Boosted usability metrics by **25%** by collaborating with cross-functional teams to align features with user needs. " +
-      "Reduced code duplication by **30%** via modular React designs, enhancing scalability and maintainability.",
-  },
+      "Built responsive user interfaces using React.js and Tailwind CSS, improving application performance by 20%. " +
+      "Created reusable React components that reduced development time by 15% and decreased code duplication by 30%. " +
+      "Collaborated with UX designers to implement features that increased usability metrics by 25%. " +
+      "Participated in agile sprints to deliver features that enhanced overall user satisfaction.",
+  }
 ];
   
   export const EDUCATION = [

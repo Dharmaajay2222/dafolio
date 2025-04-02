@@ -213,21 +213,24 @@
   
   export const EXPERIENCES = [
     {
-      title: "Frontend Developer Intern",
-      company: "ParkQwik",
-      duration: "September 2024 - Present",
-      description:
-        "As a Front-End Developer Intern at ParkQwik since September 2024, I engineered responsive user interfaces using JavaScript, React.js, and React Native, leading to a 25% increase in user engagement. I resolved complex front-end issues through effective debugging and troubleshooting, ensuring high application availability. Additionally, I collaborated with cross-functional teams to implement features that enhanced product performance and user satisfaction while contributing to the optimization of application scalability through agile development processes and sharing technical insights.",
-    },
-
-    {
-      title: "Java Developer Intern",
-      company: "ParkQwik",
-      duration: "September 2024 - Present",
-      description:
-        "As a Front-End Developer Intern at ParkQwik since September 2024, I engineered responsive user interfaces using JavaScript, React.js, and React Native, leading to a 25% increase in user engagement. I resolved complex front-end issues through effective debugging and troubleshooting, ensuring high application availability. Additionally, I collaborated with cross-functional teams to implement features that enhanced product performance and user satisfaction while contributing to the optimization of application scalability through agile development processes and sharing technical insights.",
-    },
-  ];
+    title: "Java Developer Intern",
+    company: "Infosys Springboard",
+    duration: "February 2025 - March 2025",
+    description:
+      "Developed a **Spring Boot** and **MySQL** auction platform supporting **100+ users** with real-time bidding and secure authentication. " +
+      "Built **REST APIs** processing **200+ bids** across 50+ auctions and integrated email notifications, increasing engagement by **30%**. " +
+      "Achieved **95%+ test coverage** (JUnit/Mockito), reducing post-launch issues by **40%**, and integrated a **React.js** front-end for seamless UX.",
+  },
+  {
+    title: "Frontend Developer Intern",
+    company: "ParkQwik",
+    duration: "October 2024 - December 2024",
+    description:
+      "Engineered responsive UIs using **React.js, JavaScript, and Tailwind CSS**, improving application performance by **20%** through reusable components. " +
+      "Boosted usability metrics by **25%** by collaborating with cross-functional teams to align features with user needs. " +
+      "Reduced code duplication by **30%** via modular React designs, enhancing scalability and maintainability.",
+  },
+];
   
   export const EDUCATION = [
     {

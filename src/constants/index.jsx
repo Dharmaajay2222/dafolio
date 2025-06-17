@@ -52,12 +52,15 @@
   export const PROJECTS = [
     {
       id: 1,
-      name: "BeatCancer",
+      name: "GitHub AI Code Review Assistant",
       description:
-        "AI Cancer Care provides an easy and efficient way to craft personalized cancer care using AI. It interacts with the Gemini AI to analyze and generate detailed treatment plans based on patient data and medical records.",
-      image: projectImage1,
-      githubLink: "https://github.com/Dharmaajay2222/beat-cancer",
+        "Developed a full-stack application that automates GitHub pull request reviews using OAuth-authenticated Axios API calls. Integrated Hugging Face’s CodeLlama API to analyze code diffs and provide intelligent, AI-generated suggestions. Deployed frontend on Vercel and backend on Render using 100% free-tier hosting, ensuring maximum cost efficiency.",
+      image: projectImage6,
+      githubLink: "https://github.com/Dharmaajay2222/AjayFolio",
     },
+
+
+
     {
       id: 2,
       name: "ExamShield",

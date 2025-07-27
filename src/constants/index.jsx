@@ -61,38 +61,38 @@
 
 
 
-    {
-      id: 2,
-      name: "ExamShield",
-      description:
-        "A secure system for encrypted exam paper distribution, featuring role-based access control, scheduled access, and real-time monitoring to protect exam integrity and confidentiality.",
-      image: projectImage2,
-      githubLink: "https://github.com/Dharmaajay2222/ExamShield",
-    },
-    {
-      id: 3,
-      name: "EthLink",
-      description:
-        "Create EthLink, a secure Ethereum dApp for transferring Ether using Solidity smart contracts with re-entrancy protection. Master Web3.0 essentials, from contract deployment to integrating Ether payments in an NFT marketplace.",
-      image: projectImage3,
-      githubLink: "https://github.com/Dharmaajay2222/EthLink",
-    },
-    {
-      id: 4,
-      name: "FileSync S3",
-      description:
-        "The Scalable File Upload Application is a web application that allows users to upload files seamlessly and efficiently using Amazon S3 for storage. This application is built using React.js for the frontend and Spring Boot for the backend, providing a user-friendly interface and a robust backend architecture.",
-      image: projectImage4,
-      githubLink: "https://github.com/Dharmaajay2222/FileSync-S3",
-    },
-    {
-      id: 5,
-      name: "Inventory Management",
-      description:
-        "An Inventory Management System built with the MERN stack (MongoDB, Express, React, Node.js) that enables efficient tracking, management, and reporting of stock, suppliers, and orders. It provides real-time updates, analytics, and integrates AWS S3 for secure file storage. The system streamlines inventory processes and enhances data accuracy.",
-      image: projectImage5,
-      githubLink: "https://github.com/Dharmaajay2222/Inventory-Management",
-    },
+    // {
+    //   id: 2,
+    //   name: "ExamShield",
+    //   description:
+    //     "A secure system for encrypted exam paper distribution, featuring role-based access control, scheduled access, and real-time monitoring to protect exam integrity and confidentiality.",
+    //   image: projectImage2,
+    //   githubLink: "https://github.com/Dharmaajay2222/ExamShield",
+    // },
+    // {
+    //   id: 3,
+    //   name: "EthLink",
+    //   description:
+    //     "Create EthLink, a secure Ethereum dApp for transferring Ether using Solidity smart contracts with re-entrancy protection. Master Web3.0 essentials, from contract deployment to integrating Ether payments in an NFT marketplace.",
+    //   image: projectImage3,
+    //   githubLink: "https://github.com/Dharmaajay2222/EthLink",
+    // },
+    // {
+    //   id: 4,
+    //   name: "FileSync S3",
+    //   description:
+    //     "The Scalable File Upload Application is a web application that allows users to upload files seamlessly and efficiently using Amazon S3 for storage. This application is built using React.js for the frontend and Spring Boot for the backend, providing a user-friendly interface and a robust backend architecture.",
+    //   image: projectImage4,
+    //   githubLink: "https://github.com/Dharmaajay2222/FileSync-S3",
+    // },
+    // {
+    //   id: 5,
+    //   name: "Inventory Management",
+    //   description:
+    //     "An Inventory Management System built with the MERN stack (MongoDB, Express, React, Node.js) that enables efficient tracking, management, and reporting of stock, suppliers, and orders. It provides real-time updates, analytics, and integrates AWS S3 for secure file storage. The system streamlines inventory processes and enhances data accuracy.",
+    //   image: projectImage5,
+    //   githubLink: "https://github.com/Dharmaajay2222/Inventory-Management",
+    // },
     {
       id: 6,
       name: "Personal portfolio",

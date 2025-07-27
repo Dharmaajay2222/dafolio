@@ -225,16 +225,16 @@
       "Integrated automated email notifications which increased user engagement by 30%. " +
       "Achieved 95%+ test coverage using JUnit and Mockito, reducing production bugs by 40%.",
   },
-  {
-    title: "Frontend Developer Intern",
-    company: "ParkQwik",
-    duration: "October 2024 - December 2024",
-    description:
-      "Built responsive user interfaces using React.js and Tailwind CSS, improving application performance by 20%. " +
-      "Created reusable React components that reduced development time by 15% and decreased code duplication by 30%. " +
-      "Collaborated with UX designers to implement features that increased usability metrics by 25%. " +
-      "Participated in agile sprints to deliver features that enhanced overall user satisfaction.",
-  }
+  // {
+  //   title: "Frontend Developer Intern",
+  //   company: "ParkQwik",
+  //   duration: "October 2024 - December 2024",
+  //   description:
+  //     "Built responsive user interfaces using React.js and Tailwind CSS, improving application performance by 20%. " +
+  //     "Created reusable React components that reduced development time by 15% and decreased code duplication by 30%. " +
+  //     "Collaborated with UX designers to implement features that increased usability metrics by 25%. " +
+  //     "Participated in agile sprints to deliver features that enhanced overall user satisfaction.",
+  // }
 ];
   
   export const EDUCATION = [

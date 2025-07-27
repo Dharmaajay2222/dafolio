@@ -52,12 +52,22 @@
   export const PROJECTS = [
     {
       id: 1,
-      name: "GitHub AI Code Review Assistant",
+      name: "GitWise – GitHub AI Code Review Assistant",
       description:
-        "Developed a full-stack application that automates GitHub pull request reviews using OAuth-authenticated Axios API calls. Integrated Hugging Face’s CodeLlama API to analyze code diffs and provide intelligent, AI-generated suggestions. Deployed frontend on Vercel and backend on Render using 100% free-tier hosting, ensuring maximum cost efficiency.",
-      image: projectImage6,
-      githubLink: "https://github.com/Dharmaajay2222/AjayFolio",
+        "Built an AI-powered tool that automates GitHub pull request reviews, reducing manual effort by 20%. Used React.js, Node.js, and Hugging Face’s CodeLlama API to generate intelligent suggestions. Secured GitHub integration via OAuth and deployed the frontend on Vercel and backend on Render using free-tier hosting for cost-effective availability.",
+      // image: projectImage6,
+      // githubLink: "https://github.com/Dharmaajay2222/AjayFolio",
     },
+    {
+      id: 2,
+      name: "EmotionPlay – Real-Time Emotion Detection App",
+      description:
+        "Developed a web application that detects facial expressions in real time using TensorFlow.js and Face-API.js, and recommends songs via the Spotify Web API. Achieved 90% detection accuracy through performance tuning. Optimized background processing for smooth performance on low-power mobile devices.",
+      // image: projectImage7, // replace with actual image variable if different
+      // githubLink: "https://github.com/Dharmaajay2222/AjayFolio", // update if different for EmotionPlay
+}
+
+
 
 
 
@@ -136,16 +146,16 @@
       //experience: "1+ year",
     },
   
-    {
-      icon: <SiTailwindcss className="text-4xl text-sky-400 lg:text-5xl" />,
-      name: "Tailwind CSS",
-      //experience: "1+ year",
-    },
-    {
-      icon: <TbBrandNextjs className="text-4xl text-white lg:text-5xl" />,
-      name: "Next.js",
-      //experience: "1+ year",
-    },
+    // {
+    //   icon: <SiTailwindcss className="text-4xl text-sky-400 lg:text-5xl" />,
+    //   name: "Tailwind CSS",
+    //   //experience: "1+ year",
+    // },
+    // {
+    //   icon: <TbBrandNextjs className="text-4xl text-white lg:text-5xl" />,
+    //   name: "Next.js",
+    //   //experience: "1+ year",
+    // },
     {
       icon: <FaNodeJs className="text-4xl text-green-600 lg:text-5xl" />,
       name: "Node.js",
@@ -186,31 +196,31 @@
       name: "Python",
       //experience: "2+ years",
     },
-    {
-      icon: <AiFillAmazonCircle className="text-4xl text-orange-600 lg:text-5xl" />,
-      name: "AWS",
-      //experience: "1+ year",
-    },
-    {
-      icon: <SiPostman className="text-4xl text-red-500 lg:text-5xl" />,
-      name: "RESTful APIs",
-      //experience: "2+ years",
-    },
+    // {
+    //   icon: <AiFillAmazonCircle className="text-4xl text-orange-600 lg:text-5xl" />,
+    //   name: "AWS",
+    //   //experience: "1+ year",
+    // },
+    // {
+    //   icon: <SiPostman className="text-4xl text-red-500 lg:text-5xl" />,
+    //   name: "RESTful APIs",
+    //   //experience: "2+ years",
+    // },
     {
       icon: <SiGit className="text-4xl text-orange-600 lg:text-5xl" />,
       name: "Git",
       //experience: "2+ years",
     },
-    {
-      icon: <GiProgression className="text-4xl text-yellow-600 lg:text-5xl" />,
-      name: "Agile",
-      //experience: "1+ year",
-    },
-    {
-      icon: <SiJenkins className="text-4xl text-black lg:text-5xl" />,
-      name: "CI/CD",
-      //experience: "1+ year",
-    },
+    // {
+    //   icon: <GiProgression className="text-4xl text-yellow-600 lg:text-5xl" />,
+    //   name: "Agile",
+    //   //experience: "1+ year",
+    // },
+    // {
+    //   icon: <SiJenkins className="text-4xl text-black lg:text-5xl" />,
+    //   name: "CI/CD",
+    //   //experience: "1+ year",
+    // },
   ];
   
   
